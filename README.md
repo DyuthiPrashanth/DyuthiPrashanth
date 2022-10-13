@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DyuthiPrashanth
-- 👀 I’m interested in robotics, dance, medicine, and music
-- 🌱 I’m currently learning how to program in python
+- 👀 I’m interested in robotics, music
+- 🌱 I’m currently just chilling out
 
 
 
