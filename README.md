@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DyuthiPrashanth
-- 👀 I’m interested in robotics, music
+- 👀 I’m interested in robotics, as well as too many other things to list :)
 - 🌱 I’m currently just chilling out
 
 
